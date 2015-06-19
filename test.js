@@ -9,5 +9,5 @@ var Viktor = (function () {
 var Ilan = (function () {
     function Ilan() {
     }
-    return Ilan;
+    return Ilfan;
 })();
