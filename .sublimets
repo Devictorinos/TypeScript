@@ -1,6 +1,7 @@
 {
     "root": "test.ts",
     "settings": {
+
         "auto_complete": false,
         "build_on_save": true,
         "build_parameters": {

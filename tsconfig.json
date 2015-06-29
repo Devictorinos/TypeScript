@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "out": "scripts.js",
+        "sourceMap": true,
+        "target": "es5",
+        "removeComments": true
+    },
+    "files": ["test.ts"]
+}

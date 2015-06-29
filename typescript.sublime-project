@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/var/www/TypeScript",
+            "file_exclude_patterns": ["*.yml", "artisan", "*.md"]
+		}
+	],
+    "setting":
+    [
+        {
+            "tab_size": 4
+        }
+    ]
+}
